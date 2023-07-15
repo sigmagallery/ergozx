@@ -1,3 +1,5 @@
 collections:
-- label: 
-  data: collection1.yml
+- label: ERGOZX
+  data: ergozx.yml
+- label: Plot ERGOZX
+  data: plotergozx.yml
