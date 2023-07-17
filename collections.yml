@@ -1,5 +1,7 @@
 collections:
 - label: ERGOZX
   data: ergozx.yml
+  image: https://gateway.ipfs.io/ipfs/bafkreibihidot6xalcw3w2y4llfnmi2mkeipeblqmrr4omvaaaeb35yxgm
 - label: Plot ERGOZX
   data: plotergozx.yml
+  image: https://gateway.ipfs.io/ipfs/bafkreieul4aj66xognpiny4p7h3w4a55s2ghwn7t26trp7afanec3d44ay
