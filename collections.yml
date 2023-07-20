@@ -1,7 +1,7 @@
 collections:
 - label: ERGOZX
   data: ergozx.yml
-  image: https://gateway.ipfs.io/ipfs/bafkreibihidot6xalcw3w2y4llfnmi2mkeipeblqmrr4omvaaaeb35yxgm
+  image: https://img1.sigma.gallery/ergozx/ergozx/971127aa3159f8eab0ab508b9b0e18c3b373ea1b9bc2e6982a31c7b579eec4b3.webp
 - label: Plot ERGOZX
   data: plotergozx.yml
-  image: https://gateway.ipfs.io/ipfs/bafkreieul4aj66xognpiny4p7h3w4a55s2ghwn7t26trp7afanec3d44ay
+  image: https://img1.sigma.gallery/ergozx/plot-ergozx/5dfbe5e959341a5f1fc1f13a74279685cc2fc0676acc6731ab8c792b96b0ceb4.webp
